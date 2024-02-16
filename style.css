@@ -644,7 +644,7 @@ span{
 
 @media (max-width: 768px){
     .header{
-        background: #112e42;
+        background: black;
     }
 
     #menu-icon{
